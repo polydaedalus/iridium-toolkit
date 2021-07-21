@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/polydaedalus/platinum-toolkit/tree/main/packages/pancake-uikit",
+  "repository": "https://github.com/polydaedalus/iridium-toolkit/tree/main/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
